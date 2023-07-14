@@ -6,10 +6,8 @@ Skills:
 
 I am currently:
 
+💻 Looking to work on Web (SvelteKit) and Android (Jetpack Compose) projects
+
 🔭 Working on growing my [YouTube Channel](https://www.youtube.com/c/CodingArk)
-
-🌱 Learning Jetpack Compose
-
-👯 Looking to collaborate on Android projects
 
 📫 Reach me at risalfajar@gmail.com
